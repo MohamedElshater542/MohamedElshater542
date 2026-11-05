@@ -20,7 +20,7 @@ Computer Science graduate (Nile University) and **full-stack / backend developer
 | Project | What it does | Stack |
 |---|---|---|
 | [**SafeWatch**](https://github.com/MohamedElshater542/SafeWatch) (graduation project) | Smart workplace monitoring system with computer-vision safety-violation detection and admin / employee dashboards | Flutter, FastAPI, PostgreSQL (Supabase) |
-| [**TaskFlow**](https://github.com/MohamedElshater542/TaskFlow) | Task management REST API | Java, Spring Boot |
+| [**TaskFlow**](https://github.com/MohamedElshater542/taskflow-api) | Task management REST API | Java, Spring Boot |
 | [**ShopSphere**](https://github.com/MohamedElshater542/ShopSphere) | E-commerce backend | Node.js, MongoDB |
 | [**BookIt**](https://github.com/MohamedElshater542/BookIt) | Booking application | PHP, Laravel |
 | [**DevBlog**](https://github.com/MohamedElshater542/DevBlog) | Blogging API | Python, FastAPI |
