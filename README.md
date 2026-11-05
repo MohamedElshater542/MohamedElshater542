@@ -19,7 +19,6 @@ Computer Science graduate (Nile University) and **full-stack / backend developer
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**SafeWatch**](https://github.com/MohamedElshater542/SafeWatch) (graduation project) | Smart workplace monitoring system with computer-vision safety-violation detection and admin / employee dashboards | Flutter, FastAPI, PostgreSQL (Supabase) |
 | [**TaskFlow**](https://github.com/MohamedElshater542/taskflow-api) | Task management REST API | Java, Spring Boot |
 | [**Emotion Detection App**](https://github.com/MohamedElshater542/oaqjp-final-project-emb-ai) | Flask web app that detects emotions in text using Watson NLP | Python, Flask, REST API |
 | [**Book Review API**](https://github.com/MohamedElshater542/expressBookReviews) | REST API for book reviews with JWT authentication | Node.js, Express |
