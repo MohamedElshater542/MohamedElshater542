@@ -23,7 +23,7 @@ Computer Science graduate (Nile University) and **full-stack / backend developer
 | [**TaskFlow**](https://github.com/MohamedElshater542/taskflow-api) | Task management REST API | Java, Spring Boot |
 | [**ShopSphere**](https://github.com/MohamedElshater542/ShopSphere) | E-commerce backend | Node.js, MongoDB |
 | [**BookIt**](https://github.com/MohamedElshater542/BookIt) | Booking application | PHP, Laravel |
-| [**DevBlog**](https://github.com/MohamedElshater542/DevBlog) | Blogging API | Python, FastAPI |
+| [**DevBlog**](https://github.com/MohamedElshater542/devblog-api) | Blogging API | Python, FastAPI |
 | [**Electric Transformer Fault Detection**](https://github.com/MohamedElshater542/Error_Detection_OF_Electric_Transfromer) | ML classifier that flags faulty transformers from sensor readings | Python, scikit-learn, Jupyter |
 | [**Paradise Nursery**](https://github.com/MohamedElshater542/paradise-nursery) | Shopping cart app | React, Redux |
 
