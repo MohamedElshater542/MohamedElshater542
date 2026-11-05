@@ -22,7 +22,7 @@ Computer Science graduate (Nile University) and **full-stack / backend developer
 | [**SafeWatch**](https://github.com/MohamedElshater542/SafeWatch) (graduation project) | Smart workplace monitoring system with computer-vision safety-violation detection and admin / employee dashboards | Flutter, FastAPI, PostgreSQL (Supabase) |
 | [**TaskFlow**](https://github.com/MohamedElshater542/taskflow-api) | Task management REST API | Java, Spring Boot |
 | [**ShopSphere**](https://github.com/MohamedElshater542/ShopSphere) | E-commerce backend | Node.js, MongoDB |
-| [**BookIt**](https://github.com/MohamedElshater542/BookIt) | Booking application | PHP, Laravel |
+| [**Book Review API**](https://github.com/MohamedElshater542/expressBookReviews) | REST API for book reviews with JWT authentication | Node.js, Express |
 | [**DevBlog**](https://github.com/MohamedElshater542/devblog-api) | Blogging API | Python, FastAPI |
 | [**Electric Transformer Fault Detection**](https://github.com/MohamedElshater542/Error_Detection_OF_Electric_Transfromer) | ML classifier that flags faulty transformers from sensor readings | Python, scikit-learn, Jupyter |
 | [**Paradise Nursery**](https://github.com/MohamedElshater542/paradise-nursery) | Shopping cart app | React, Redux |
