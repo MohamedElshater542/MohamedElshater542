@@ -26,6 +26,7 @@ Computer Science graduate (Nile University) and **full-stack / backend developer
 | [**DevBlog**](https://github.com/MohamedElshater542/devblog-api) | Blogging API | Python, FastAPI |
 | [**Electric Transformer Fault Detection**](https://github.com/MohamedElshater542/Error_Detection_OF_Electric_Transfromer) | ML classifier that flags faulty transformers from sensor readings | Python, scikit-learn, Jupyter |
 | [**Paradise Nursery**](https://github.com/MohamedElshater542/paradise-nursery) | Shopping cart app | React, Redux |
+| [**Django Online Course App**](https://github.com/MohamedElshater542/tfjzl-final-cloud-app-with-database) | Course platform with enrollment and an exam/assessment feature | Python, Django, SQLite |
 
 ---
 
