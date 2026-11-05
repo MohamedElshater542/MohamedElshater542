@@ -19,15 +19,13 @@ Computer Science graduate (Nile University) and **full-stack / backend developer
 
 | Project | What it does | Stack |
 |---|---|---|
-| **SafeWatch** (graduation project) | Smart workplace monitoring system with computer-vision safety-violation detection and admin / employee dashboards | Flutter, FastAPI, PostgreSQL (Supabase) |
-| **TaskFlow** | Task management REST API | Java, Spring Boot |
-| **ShopSphere** | E-commerce backend | Node.js, MongoDB |
-| **BookIt** | Booking application | PHP, Laravel |
-| **DevBlog** | Blogging API | Python, FastAPI |
+| [**SafeWatch**](https://github.com/MohamedElshater542/SafeWatch) (graduation project) | Smart workplace monitoring system with computer-vision safety-violation detection and admin / employee dashboards | Flutter, FastAPI, PostgreSQL (Supabase) |
+| [**TaskFlow**](https://github.com/MohamedElshater542/TaskFlow) | Task management REST API | Java, Spring Boot |
+| [**ShopSphere**](https://github.com/MohamedElshater542/ShopSphere) | E-commerce backend | Node.js, MongoDB |
+| [**BookIt**](https://github.com/MohamedElshater542/BookIt) | Booking application | PHP, Laravel |
+| [**DevBlog**](https://github.com/MohamedElshater542/DevBlog) | Blogging API | Python, FastAPI |
 | [**Electric Transformer Fault Detection**](https://github.com/MohamedElshater542/Error_Detection_OF_Electric_Transfromer) | ML classifier that flags faulty transformers from sensor readings | Python, scikit-learn, Jupyter |
 | [**Paradise Nursery**](https://github.com/MohamedElshater542/paradise-nursery) | Shopping cart app | React, Redux |
-
-> 🔗 *Add a link to each repo above once it's public (replace the plain project names with links).*
 
 ---
 
