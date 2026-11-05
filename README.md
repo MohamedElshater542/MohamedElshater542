@@ -39,7 +39,7 @@ Computer Science graduate (Nile University) and **full-stack / backend developer
 ## 🎯 Currently
 
 - Building backend projects with authentication, testing, and deployment
-- Looking for junior **backend / full-stack** opportunities (Python, Node.js, Java, .NET)
+- Looking for junior **backend / full-stack** opportunities (Node js , python)
 
 ---
 
